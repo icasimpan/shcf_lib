@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/oms/!svn/ver/90879/tools/omsman/buildtools_poland/arch_rev2/3rdparty/shunit2/2.1.6/examples
+END
+math.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/oms/!svn/ver/90879/tools/omsman/buildtools_poland/arch_rev2/3rdparty/shunit2/2.1.6/examples/math.inc
+END
+math_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/oms/!svn/ver/90879/tools/omsman/buildtools_poland/arch_rev2/3rdparty/shunit2/2.1.6/examples/math_test.sh
+END
+equality_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/oms/!svn/ver/90879/tools/omsman/buildtools_poland/arch_rev2/3rdparty/shunit2/2.1.6/examples/equality_test.sh
+END
+party_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/oms/!svn/ver/90879/tools/omsman/buildtools_poland/arch_rev2/3rdparty/shunit2/2.1.6/examples/party_test.sh
+END
+lineno_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/oms/!svn/ver/90879/tools/omsman/buildtools_poland/arch_rev2/3rdparty/shunit2/2.1.6/examples/lineno_test.sh
+END
+mkdir_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/oms/!svn/ver/90879/tools/omsman/buildtools_poland/arch_rev2/3rdparty/shunit2/2.1.6/examples/mkdir_test.sh
+END
