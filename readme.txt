@@ -7,7 +7,7 @@ shcf will be repurposed such that it will become a light shell scripting framewo
 FORMAT
 
 Directory format would initially be as follows:
-  lib
+  repo/lib
     \-> [broad_category/sub_category_1/sub_category_n]
           \-> script_name_dir
 		\-> script_name.bash.inc
