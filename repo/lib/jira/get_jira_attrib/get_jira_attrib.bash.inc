@@ -29,7 +29,7 @@ get_jira_attrib() {
          jq_filter='.fields.summary'
       ;;
       reporter)
-         jq_filter='.fields.creator.name'
+         jq_filter='.fields.reporter.name'
       ;;
       assignee)
          jq_filter='.fields.assignee.name'
